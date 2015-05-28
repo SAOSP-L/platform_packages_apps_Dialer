@@ -214,5 +214,9 @@
     <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
     <string name="incall_vibrate_hangup_title">Вибрировать при отбое</string>
     <string name="incall_vibrate_45_title">Вибрировать каждую минуту</string>
-    <string name="incall_vibrate_45_summary">Вибрировать на 45-ой секунде каждой минуты во время исходящих вызовов</string>   
+    <string name="incall_vibrate_45_summary">Вибрировать на 45-ой секунде каждой минуты во время исходящих вызовов</string>    
+    
+    <string name="start_call_playback">Воспроизвести запись</string>
+    <string name="stop_call_playback">Остановить</string>
+    <string name="call_playback_error_message">Не удалось воспроизвести запись разговора</string> 
 </resources>
